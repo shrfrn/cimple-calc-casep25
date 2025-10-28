@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: monospace;
+}
+
+table {
+    border: 1px solid lightgray;
+    border-collapse: collapse;
+    margin: 100px auto;
+}
+
+td {
+    width: 45px;
+    height: 45px;
+    border: 1px solid lightgray;
+
+    text-align: center;
+    font-size: 2em;
+}
